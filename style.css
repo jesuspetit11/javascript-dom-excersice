@@ -1,1 +1,32 @@
-/*# sourceMappingURL=style.css.map */
+body {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+}
+
+button {
+  padding: 5px;
+  margin: 5px 3px 12px;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 1px solid #1182ac;
+  background-color: #1182ac;
+  color: white;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+#imagen {
+  margin: auto;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+
+#imagen img {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 30px;
+}/*# sourceMappingURL=style.css.map */
